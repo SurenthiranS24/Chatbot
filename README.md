@@ -16,9 +16,13 @@ Simple rule-based chatbot responses
 ## Advantages
 
 ✅ Seamless Communication: Users can chat with people who speak different languages without any language barriers.
+
 ✅ Real-Time Translation: Messages can be instantly translated, making conversations smoother and more efficient.
+
 ✅ Enhanced Accessibility: Helps non-native speakers understand messages in their preferred language, improving user experience.
+
 ✅ Business & Networking Benefits: Enables global communication, making it easier for businesses and professionals to connect with international clients and colleagues.
+
 ✅ Improved User Engagement: Users can confidently engage in conversations without worrying about language differences.
 
 ## Usages
