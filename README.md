@@ -1,6 +1,6 @@
 # Chatbot
 
-## Multilanguage Chatbot
+## Multilingual Chatbot
 The core idea is to implement this language translation feature in WhatsApp, allowing received messages to be translated into the user's preferred language for better convenience.
 
 ## About the Chatbot
